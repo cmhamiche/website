@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-30_0507",
-    "currentPage": "fr.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -557,7 +557,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -602,7 +602,7 @@
               }
             },
             "DIV": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#efefef"
             }
           },
@@ -648,7 +648,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -693,7 +693,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -738,7 +738,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -1333,7 +1333,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -1378,7 +1378,7 @@
               }
             },
             "DIV": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#efefef"
             }
           },
@@ -1424,7 +1424,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -1469,7 +1469,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
@@ -1514,7 +1514,7 @@
               }
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "image2",
