@@ -35,12 +35,13 @@
     "uniqCompNum": 52,
     "versionPublish": "4.3.2",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107729246-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107729246-1');\r\n</script>"
   },
   "pages": {
     "fr.html": {
       "settings": {
-        "title": "Fr",
+        "title": "Christophe M. HAMICHE",
         "meta_descr": "Christophe M. HAMICHE - Artiste peintre",
         "header_custom": "",
         "footer_custom": "",
