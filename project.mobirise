@@ -1231,7 +1231,8 @@
               "text-align": "center"
             },
             ".mbr-text P": {
-              "color": "#333333"
+              "color": "#333333",
+              "text-align": "center"
             }
           },
           "_name": "content1",
