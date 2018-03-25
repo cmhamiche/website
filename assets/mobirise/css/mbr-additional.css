@@ -1913,6 +1913,48 @@ body {
 .cid-qJdPdRhNCj H2 {
   color: #333333;
 }
+.cid-qNkRCfmBpe {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qNkRCfmBpe .image-block {
+  margin: auto;
+}
+.cid-qNkRCfmBpe figcaption {
+  position: relative;
+}
+.cid-qNkRCfmBpe figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qNkRCfmBpe .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qNkR5bl3Zq {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qNkR5bl3Zq .image-block {
+  margin: auto;
+}
+.cid-qNkR5bl3Zq figcaption {
+  position: relative;
+}
+.cid-qNkR5bl3Zq figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qNkR5bl3Zq .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qwFRcMSgiq {
   padding-top: 0px;
   padding-bottom: 15px;
