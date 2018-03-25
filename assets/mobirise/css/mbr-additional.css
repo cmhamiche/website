@@ -1749,6 +1749,33 @@ body {
 .cid-qwFReH23FM DIV {
   text-align: right;
 }
+.cid-qwFRcMSgiq {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qwFRcMSgiq .image-block {
+  margin: auto;
+}
+.cid-qwFRcMSgiq .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qwFRcMSgiq figcaption {
+  position: relative;
+}
+.cid-qwFRcMSgiq figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwFRcMSgiq .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qwFRcMSgiq DIV {
+  text-align: right;
+}
 .cid-qwFRcnAmlP {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1776,33 +1803,6 @@ body {
 .cid-qwFRcnAmlP DIV {
   text-align: right;
   color: #efefef;
-}
-.cid-qwFRcMSgiq {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-qwFRcMSgiq .image-block {
-  margin: auto;
-}
-.cid-qwFRcMSgiq .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qwFRcMSgiq figcaption {
-  position: relative;
-}
-.cid-qwFRcMSgiq figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwFRcMSgiq .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qwFRcMSgiq DIV {
-  text-align: right;
 }
 .cid-qwFRdd5skc {
   padding-top: 0px;
@@ -2316,6 +2316,33 @@ body {
 .cid-qwFReH23FM DIV {
   text-align: right;
 }
+.cid-qwFRcMSgiq {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qwFRcMSgiq .image-block {
+  margin: auto;
+}
+.cid-qwFRcMSgiq .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qwFRcMSgiq figcaption {
+  position: relative;
+}
+.cid-qwFRcMSgiq figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwFRcMSgiq .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qwFRcMSgiq DIV {
+  text-align: right;
+}
 .cid-qwFRcnAmlP {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -2343,33 +2370,6 @@ body {
 .cid-qwFRcnAmlP DIV {
   text-align: right;
   color: #efefef;
-}
-.cid-qwFRcMSgiq {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-qwFRcMSgiq .image-block {
-  margin: auto;
-}
-.cid-qwFRcMSgiq .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qwFRcMSgiq figcaption {
-  position: relative;
-}
-.cid-qwFRcMSgiq figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwFRcMSgiq .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qwFRcMSgiq DIV {
-  text-align: right;
 }
 .cid-qwFRdd5skc {
   padding-top: 0px;
