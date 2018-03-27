@@ -1776,6 +1776,33 @@ body {
 .cid-qNlenn6hL0 DIV {
   text-align: right;
 }
+.cid-qwFRdd5skc {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qwFRdd5skc .image-block {
+  margin: auto;
+}
+.cid-qwFRdd5skc .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qwFRdd5skc figcaption {
+  position: relative;
+}
+.cid-qwFRdd5skc figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwFRdd5skc .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qwFRdd5skc DIV {
+  text-align: right;
+}
 .cid-qwFReH23FM {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1857,33 +1884,6 @@ body {
 .cid-qwFRcnAmlP DIV {
   text-align: right;
   color: #efefef;
-}
-.cid-qwFRdd5skc {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-qwFRdd5skc .image-block {
-  margin: auto;
-}
-.cid-qwFRdd5skc .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qwFRdd5skc figcaption {
-  position: relative;
-}
-.cid-qwFRdd5skc figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwFRdd5skc .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qwFRdd5skc DIV {
-  text-align: right;
 }
 .cid-qwFRdy4YTG {
   padding-top: 0px;
@@ -2019,6 +2019,33 @@ body {
   }
 }
 .cid-qNldKexc6j DIV {
+  text-align: right;
+}
+.cid-qwFRdd5skc {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-qwFRdd5skc .image-block {
+  margin: auto;
+}
+.cid-qwFRdd5skc .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qwFRdd5skc figcaption {
+  position: relative;
+}
+.cid-qwFRdd5skc figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwFRdd5skc .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qwFRdd5skc DIV {
   text-align: right;
 }
 .cid-qwI1Rsjk1S .navbar {
@@ -2478,33 +2505,6 @@ body {
 .cid-qwFRcnAmlP DIV {
   text-align: right;
   color: #efefef;
-}
-.cid-qwFRdd5skc {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-qwFRdd5skc .image-block {
-  margin: auto;
-}
-.cid-qwFRdd5skc .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qwFRdd5skc figcaption {
-  position: relative;
-}
-.cid-qwFRdd5skc figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwFRdd5skc .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qwFRdd5skc DIV {
-  text-align: right;
 }
 .cid-qwFRdy4YTG {
   padding-top: 0px;
