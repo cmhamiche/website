@@ -1,6 +1,6 @@
 /**
  * Social Likes
- * http://sapegin.github.com/social-likes
+ * https://sapegin.github.com/social-likes
  *
  * Sharing buttons for Russian and worldwide social networks.
  *
